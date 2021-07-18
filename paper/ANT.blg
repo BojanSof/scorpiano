@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ANT.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Database file #1: IEEEabrv.bib
+Database file #2: ANT.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in AMTpoly:1
+Warning--empty journal in AMTpoly:2
+Warning--empty booktitle in PITCHf:1
+
+Done.
+You've used 14 entries,
+            4039 wiz_defined-function locations,
+            1428 strings with 20106 characters,
+and the built_in function-call counts, 8849 in all, are:
+= -- 692
+> -- 224
+< -- 52
++ -- 116
+- -- 45
+* -- 440
+:= -- 1423
+add.period$ -- 28
+call.type$ -- 14
+change.case$ -- 14
+chr.to.int$ -- 102
+cite$ -- 17
+duplicate$ -- 676
+empty$ -- 747
+format.name$ -- 55
+if$ -- 2000
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 127
+newline$ -- 71
+num.names$ -- 14
+pop$ -- 303
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 683
+stack$ -- 0
+substring$ -- 241
+swap$ -- 503
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 14
+warning$ -- 3
+while$ -- 31
+width$ -- 16
+write$ -- 158
+(There were 3 warnings)

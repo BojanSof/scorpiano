@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/bojan/Studii/dap/Piano_Notes_Recognition/splash.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="290.26733"
+     inkscape:cy="563.91764"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19672">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop19668" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop19670" />
+    </linearGradient>
+    <symbol
+       id="E050"
+       viewBox="0 0 1000 1000"
+       overflow="inherit">
+      <g
+         transform="scale(1,-1)"
+         id="g11646">
+        <path
+           d="M441 -245c-23 -4 -48 -6 -76 -6c-59 0 -102 7 -130 20c-88 42 -150 93 -187 154c-26 44 -43 103 -48 176c-4 60 11 123 44 189c29 57 65 106 110 148s96 85 153 127c-3 16 -8 46 -13 92c-4 43 -5 73 -5 89c0 117 16 172 69 257c34 54 64 82 89 82c21 0 43 -30 69 -92 s39 -115 41 -159c2 -120 -19 -173 -67 -256c-13 -20 -63 -90 -98 -118c-13 -9 -25 -19 -37 -29l31 -181c8 1 18 2 28 2c58 0 102 -12 133 -35c59 -43 92 -104 98 -184c11 -135 -80 -229 -180 -270c8 -57 17 -110 25 -162c5 -31 6 -58 6 -80c0 -30 -5 -53 -14 -70 c-35 -64 -88 -99 -158 -103c-42 -3 -83 6 -124 26c-50 24 -77 59 -80 105c-2 34 5 63 20 87c18 28 45 42 79 44c51 4 99 -40 103 -87c4 -56 -30 -94 -105 -115c17 -24 51 -36 102 -36c62 0 116 43 140 85c9 16 13 41 13 74c0 20 -1 42 -5 67c-8 53 -18 106 -26 159zM461 939 c-95 0 -135 -175 -135 -286c0 -24 2 -48 5 -71c50 39 92 82 127 128c43 57 63 106 60 148c-4 54 -23 82 -57 81zM406 119l54 -326c80 27 116 88 109 184c-7 99 -62 146 -163 142zM382 117c-74 -2 -132 -50 -128 -127c2 -46 43 -99 75 -115c-3 -2 -7 -5 -10 -10 c-70 33 -116 88 -123 172c-5 73 42 135 88 170c23 17 49 29 78 36l-29 170c-21 -13 -52 -37 -92 -73c-50 -44 -86 -84 -109 -119c-49 -75 -71 -140 -67 -195c5 -68 35 -127 93 -176s125 -73 203 -73c25 0 50 3 75 9c-19 111 -36 221 -54 331z"
+           id="path11644" />
+      </g>
+    </symbol>
+    <symbol
+       id="E0A4"
+       viewBox="0 0 1000 1000"
+       overflow="inherit">
+      <g
+         transform="scale(1,-1)"
+         id="g11651">
+        <path
+           d="M0 -39c0 68 73 172 200 172c66 0 114 -37 114 -95c0 -84 -106 -171 -218 -171c-64 0 -96 30 -96 94z"
+           id="path11649" />
+      </g>
+    </symbol>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19672"
+       id="radialGradient19674"
+       cx="31.606913"
+       cy="95.737846"
+       fx="31.606913"
+       fy="95.737846"
+       r="23.175814"
+       gradientTransform="matrix(-0.36720142,-2.3842699,1.6889662,-0.25988476,-115.90262,200.90535)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Rectangle" />
+  <g
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g21573"
+       transform="matrix(2.2846729,0,0,2.2846729,18.088324,-83.911352)"
+       inkscape:export-filename="/home/bojan/Studii/dap/Piano_Notes_Recognition/logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.1647px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;fill:url(#radialGradient19674);fill-opacity:1;stroke:none;stroke-width:0.254116"
+         x="21.242271"
+         y="103.14735"
+         id="text1155"
+         inkscape:export-filename="/home/bojan/Studii/dap/Piano_Notes_Recognition/splash.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan1153"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';fill:url(#radialGradient19674);fill-opacity:1;stroke-width:0.254116"
+           x="21.242271"
+           y="103.14735">Scorpiano</tspan></text>
+      <g
+         class="clef"
+         id="clef-000000037584520"
+         transform="matrix(0.01029336,0,0,0.01029336,13.323708,91.624287)"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         inkscape:export-filename="/home/bojan/Studii/dap/Piano_Notes_Recognition/splash.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <use
+           xlink:href="#E050"
+           x="90"
+           y="960"
+           height="720"
+           width="720"
+           id="use11668" />
+      </g>
+      <g
+         id="g15569"
+         transform="matrix(1.0697945,0,0,0.99993966,-10.380219,0.12567731)"
+         inkscape:export-filename="/home/bojan/Studii/dap/Piano_Notes_Recognition/splash.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 21.480996,95.746882 H 73.516821"
+           id="path13593" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 21.480996,97.599687 H 73.516821"
+           id="path13593-1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 21.480996,99.452492 H 73.516821"
+           id="path13593-1-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 21.480996,101.3053 H 73.516821"
+           id="path13593-1-2-9" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 21.480996,103.1581 H 73.516821"
+           id="path13593-1-2-9-3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.352924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 21.480996,95.61506 v 7.67477"
+           id="path13735" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.352924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 73.512715,95.614968 v 7.674772"
+           id="path13735-8" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Instructions" />
+</svg>
