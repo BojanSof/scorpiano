@@ -17,7 +17,7 @@ two subsequent onset moments with the tempo,
 - *pitch detection* - using the YIN algorithm, and
 - *music score generation*.
 
-For more details about the system, refer to the [paper](<./paper/ANT.pdf).
+For more details about the system, refer to the [paper](paper/ANT.pdf).
 
 ## Prerequisites
 
