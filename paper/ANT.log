@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.29)  9 JUL 2021 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.29)  24 AUG 2021 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -514,7 +514,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<system_block_dgm.pdf, id=78, 421.575pt x 67.2111pt>
+<system_block_dgm.pdf, id=80, 421.575pt x 67.2111pt>
 File: system_block_dgm.pdf Graphic file (type pdf)
 <use system_block_dgm.pdf>
 Package pdftex.def Info: system_block_dgm.pdf  used on input line 88.
@@ -533,16 +533,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--117
  []
 
 Package epstopdf Info: Source file: <envelope.eps>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 100576 bytes
 (epstopdf)             Output file: <envelope-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 38245 bytes
 (epstopdf)             Command: <repstopdf --outfile=envelope-eps-converted-to.
 pdf envelope.eps>
 (epstopdf)             \includegraphics on input line 121.
 Package epstopdf Info: Output file is already uptodate.
-<envelope-eps-converted-to.pdf, id=102, 613.29124pt x 436.63126pt>
+<envelope-eps-converted-to.pdf, id=105, 613.29124pt x 436.63126pt>
 File: envelope-eps-converted-to.pdf Graphic file (type pdf)
 <use envelope-eps-converted-to.pdf>
 Package pdftex.def Info: envelope-eps-converted-to.pdf  used on input line 121.
@@ -559,16 +559,16 @@ LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 Package epstopdf Info: Source file: <onset.eps>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 67691 bytes
 (epstopdf)             Output file: <onset-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 26863 bytes
 (epstopdf)             Command: <repstopdf --outfile=onset-eps-converted-to.pdf
  onset.eps>
 (epstopdf)             \includegraphics on input line 162.
 Package epstopdf Info: Output file is already uptodate.
-<onset-eps-converted-to.pdf, id=108, 578.16pt x 578.16pt>
+<onset-eps-converted-to.pdf, id=111, 578.16pt x 578.16pt>
 File: onset-eps-converted-to.pdf Graphic file (type pdf)
 <use onset-eps-converted-to.pdf>
 Package pdftex.def Info: onset-eps-converted-to.pdf  used on input line 162.
@@ -601,16 +601,16 @@ l.199 \begin{numcases} {d'_t[\tau]=}
 l.199 \begin{numcases} {d'_t[\tau]=}
                                     
 Package epstopdf Info: Source file: <pitch.eps>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 1722722 bytes
 (epstopdf)             Output file: <pitch-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 85165 bytes
 (epstopdf)             Command: <repstopdf --outfile=pitch-eps-converted-to.pdf
  pitch.eps>
 (epstopdf)             \includegraphics on input line 217.
 Package epstopdf Info: Output file is already uptodate.
-<pitch-eps-converted-to.pdf, id=147, 722.7pt x 578.16pt>
+<pitch-eps-converted-to.pdf, id=150, 722.7pt x 578.16pt>
 File: pitch-eps-converted-to.pdf Graphic file (type pdf)
 <use pitch-eps-converted-to.pdf>
 Package pdftex.def Info: pitch-eps-converted-to.pdf  used on input line 217.
@@ -630,23 +630,23 @@ Overfull \hbox (2.33463pt too wide) in paragraph at lines 278--303
  [][] 
  []
 
-<london_bridge_original.pdf, id=239, 355.3275pt x 128.48pt>
+<london_bridge_original.pdf, id=242, 355.3275pt x 128.48pt>
 File: london_bridge_original.pdf Graphic file (type pdf)
 <use london_bridge_original.pdf>
 Package pdftex.def Info: london_bridge_original.pdf  used on input line 308.
 (pdftex.def)             Requested size: 252.94499pt x 91.46255pt.
 Package epstopdf Info: Source file: <london_bridge_generated.eps>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 25460 bytes
 (epstopdf)             Output file: <london_bridge_generated-eps-converted-to.p
 df>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 10204 bytes
 (epstopdf)             Command: <repstopdf --outfile=london_bridge_generated-ep
 s-converted-to.pdf london_bridge_generated.eps>
 (epstopdf)             \includegraphics on input line 309.
 Package epstopdf Info: Output file is already uptodate.
-<london_bridge_generated-eps-converted-to.pdf, id=241, 296.10625pt x 86.3225pt>
+<london_bridge_generated-eps-converted-to.pdf, id=244, 296.10625pt x 86.3225pt>
 
 File: london_bridge_generated-eps-converted-to.pdf Graphic file (type pdf)
 <use london_bridge_generated-eps-converted-to.pdf>
@@ -679,22 +679,22 @@ Overfull \hbox (8.3508pt too wide) in paragraph at lines 327--352
 [4 <./london_bridge_original.pdf> <./london_bridge_generated-eps-converted-to.p
 df>]
 Package epstopdf Info: Source file: <ode_to_joy_piano.eps>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 50709 bytes
 (epstopdf)             Output file: <ode_to_joy_piano-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-07-04 13:49:03
+(epstopdf)                    date: 2021-07-18 18:59:02
 (epstopdf)                    size: 16494 bytes
 (epstopdf)             Command: <repstopdf --outfile=ode_to_joy_piano-eps-conve
 rted-to.pdf ode_to_joy_piano.eps>
 (epstopdf)             \includegraphics on input line 365.
 Package epstopdf Info: Output file is already uptodate.
-<ode_to_joy_piano-eps-converted-to.pdf, id=281, 365.365pt x 191.71625pt>
+<ode_to_joy_piano-eps-converted-to.pdf, id=284, 365.365pt x 191.71625pt>
 File: ode_to_joy_piano-eps-converted-to.pdf Graphic file (type pdf)
 <use ode_to_joy_piano-eps-converted-to.pdf>
 Package pdftex.def Info: ode_to_joy_piano-eps-converted-to.pdf  used on input l
 ine 365.
 (pdftex.def)             Requested size: 252.94499pt x 132.72607pt.
-<ode_to_joy_anthemscore.pdf, id=283, 355.3275pt x 284.06125pt>
+<ode_to_joy_anthemscore.pdf, id=286, 355.3275pt x 284.06125pt>
 File: ode_to_joy_anthemscore.pdf Graphic file (type pdf)
 <use ode_to_joy_anthemscore.pdf>
 Package pdftex.def Info: ode_to_joy_anthemscore.pdf  used on input line 366.
@@ -741,13 +741,13 @@ Package rerunfilecheck Info: File `ANT.out' has not changed.
 (rerunfilecheck)             Checksum: 60E0982855681692D8D523077C79FBA1;1919.
  ) 
 Here is how much of TeX's memory you used:
- 11331 strings out of 478994
- 164200 string characters out of 5864751
- 498784 words of memory out of 5000000
+ 11332 strings out of 478994
+ 164211 string characters out of 5864751
+ 497784 words of memory out of 5000000
  28572 multiletter control sequences out of 15000+600000
  445848 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,17n,74p,347b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,17n,74p,347b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
@@ -758,10 +758,10 @@ public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/ucr
 r8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ANT.pdf (6 pages, 421341 bytes).
+Output written on ANT.pdf (6 pages, 421476 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
- 267 compressed objects within 3 object streams
- 61 named destinations out of 1000 (max. 500000)
+ 370 PDF objects out of 1000 (max. 8388607)
+ 270 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
