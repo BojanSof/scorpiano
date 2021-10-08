@@ -27,7 +27,7 @@ The application is developed on Linux, and there may be problems on Windows.
 - [Numpy](https://numpy.org/)
 - [Scipy](https://www.scipy.org/) - for loading wav files
 - [Librosa](https://librosa.org/) - for tempo estimation
-- [Music21](https://web.mit.edu/music21/) - for music score generation
+- [Music21](https://web.mit.edu/music21/) - for music score generation (Important: install version 6.7.1)
 - [MIDIUtil](https://github.com/MarkCWirt/MIDIUtil) - for MIDI file generation
 - [Lilypond](http://lilypond.org/) - for rendering the music score in PNG format
 
