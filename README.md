@@ -21,20 +21,29 @@ For more details about the system, refer to the [paper](paper/ANT.pdf).
 
 ## Prerequisites
 
+The application is developed on Linux, and there may be problems on Windows.
+
 - [Python 3](https://www.python.org/downloads/)
 - [Numpy](https://numpy.org/)
 - [Scipy](https://www.scipy.org/) - for loading wav files
 - [Librosa](https://librosa.org/) - for tempo estimation
 - [Music21](https://web.mit.edu/music21/) - for music score generation
-- [MIDIFile](https://pypi.org/project/MIDIFile/) - for MIDI file generation
+- [MIDIUtil](https://github.com/MarkCWirt/MIDIUtil) - for MIDI file generation
 - [Lilypond](http://lilypond.org/) - for rendering the music score in PNG format
 
 For the GUI:
 - [GTK3](https://www.gtk.org/)
+- [pygobject](https://pygobject.readthedocs.io/en/latest/)
 
 Optional:
 - [MuseScore](https://musescore.org/en) - free open-source music notation
 software, perfect for editing MusicXML files generated using Scorpiano
+
+After installing the required packages, inside the python interpreter, run the following commands:
+```
+from music21 import *
+environment.UserSettings()['lilypondPath'] = 'lilipond_install-dir/usr/bin/lilypond.exe'
+```
 
 ## Usage
 
