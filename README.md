@@ -42,7 +42,7 @@ software, perfect for editing MusicXML files generated using Scorpiano
 After installing the required packages, inside the python interpreter, run the following commands:
 ```
 from music21 import *
-environment.UserSettings()['lilypondPath'] = 'path/to/lilypond.exe'
+environment.UserSettings()['lilypondPath'] = 'path/to/lilypond executable'
 ```
 
 ## Usage
