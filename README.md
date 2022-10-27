@@ -40,6 +40,8 @@ Optional:
 software, perfect for editing MusicXML files generated using Scorpiano
 
 The python dependencies can be installed by running `pip install -r requirements.txt`.
+GTK3, pygobject and Lilypond should be installed based on the operating system.
+If using conda, GTK3 and pygobject can be installed with `conda install gtk3 pygobject`.
 
 After installing the required packages, inside the python interpreter, run the following commands:
 ```
