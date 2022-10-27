@@ -39,6 +39,8 @@ Optional:
 - [MuseScore](https://musescore.org/en) - free open-source music notation
 software, perfect for editing MusicXML files generated using Scorpiano
 
+The python dependencies can be installed by running `pip install -r requirements.txt`.
+
 After installing the required packages, inside the python interpreter, run the following commands:
 ```
 from music21 import *
